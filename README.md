@@ -1,16 +1,14 @@
-<h1 id="title">Expenses Tracker Application - ETA (Web)</h1>
+<h1 id="title">Expenses Tracker Application - ETA (Web) 💹💰 </h1>
 
 <p id="description">A simple and efficient app to track personal expenses with respect to income and organize some financial data.</p>
 
   
   
-<h2>🧐 Features</h2>
+<h2>🌟 Features & Functionalities 🌟 </h2>
 
-Project's current base features:
-
-*   🔐 Sign Up/ Register Page with User Authentication
-*   🧭 Navigation Bar with a good neat and clean UI
-*   💰 Main Expense Tracking Feature - Adding, Removing and Viewing in History about Incomes and Expenses
+*   🔐 Sign Up/Sign In Page with User Authentication
+*   🧭 User Navigation with a good neat and clean UI built with React.js
+*   💰 Main Expense Tracking Feature - Adding, Removing and Viewing in History about Incomes and Expenses. (Based on Indian Numerial System)
 
 
 
