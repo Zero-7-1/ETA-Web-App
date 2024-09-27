@@ -1,4 +1,4 @@
-<h1 id="title">Expenses Tracker Application - ETA (Web) 💹💰 </h1>
+<h1 id="title">Expenses Tracker Application - ETA (Web) </h1>
 
 <p id="description">A simple and efficient app to track personal expenses with respect to income and organize some financial data.</p>
 
